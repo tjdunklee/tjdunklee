@@ -1,4 +1,4 @@
-### Hi I'm Tim 👋
+### Hi, I'm Tim 👋
 
 I am a senior front end web developer in Minneapolis, Minnesota. I've worked for several agencies in the Twin Cities area and always enjoy getting involved with a new project or client. I love the ever-changing industry I work in and never stop thinking about it even though my wife thinks I'm slightly obsessed. Contact me to find out more about my work experience and what I'm obsessing over at the moment (currently CSS Grid, accessibility, and the JAMstack).
 
